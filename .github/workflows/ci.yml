@@ -28,6 +28,7 @@ jobs:
     env:
       RAILS_ENV: test
       DATABASE_HOST: localhost
+      DATABASE_USERNAME: task_api
       TASK_API_DATABASE_PASSWORD: postgres
 
     steps:
