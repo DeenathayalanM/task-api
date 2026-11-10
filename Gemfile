@@ -55,6 +55,6 @@ gem "jwt", "~> 3.3"
 
 gem "pundit", "~> 2.5"
 
-gem "rspec-rails", "~> 8.0"
+gem "rspec-rails", "~> 8.1"
 
 gem "rack-attack", "~> 6.8"
